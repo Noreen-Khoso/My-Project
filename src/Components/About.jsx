@@ -3,7 +3,9 @@ import React from 'react'
 const About = () => {
     return (
         <>
-            <div className=' container max-w-x px-10 mt-20'>
+            <div className='  py-20 bg-green-300 my-20 '>
+                <div className='container max-w-x px-10 '>
+
                 <h1 className=' text-start text-4xl font-semibold'>
                     About Us
                 </h1>
@@ -22,6 +24,7 @@ const About = () => {
 
 
                 </p>
+                </div>
 
 
 
